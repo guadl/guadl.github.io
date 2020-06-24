@@ -9,3 +9,4 @@ Ich bin Softwareentwickler und arbeite vorwiegend mit C und C++. Außerdem habe 
 * HTML / CSS
 * Python
 
+> Die meisten Fehler sitzen vor dem Bildschirm.
